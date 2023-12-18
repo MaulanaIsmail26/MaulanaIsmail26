@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<br />
-
 **✔️ I am a self-taught Front-end website developer from Sumedang Regency, West Java, Indonesia.**
 <br/><br/>✔️ I enjoy taking up complex problems and turning them into simple and beautiful interface designs.
 <br/><br/>✔️ I also love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
@@ -9,7 +7,7 @@
 
 <br />
 
-## Fun Fact 🎈:
+## Fun Fact 🎈
 
 <!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="140" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
@@ -18,7 +16,7 @@
 • 👯 I’m looking to collaborate on <b>cool project.</b><br/>
 • 💬 Ask me about <b>Front-end</b>.<br/>
 • 🤝 I am open to <b>discussing collaboration</b> with you.<br/>
-• 📜 See my portfolio web here <a href="https://maulana-ismail-portfolio.vercel.app/"><b>Maulana Ismail's Web Portfolio</b></a><br/>
+• 📜 See my portfolio web here <a href="https://maulana-ismail-portfolio.vercel.app/" target="_blank"><b>Maulana Ismail's Web Portfolio</b></a><br/>
 </span>
 
 <br />
@@ -112,8 +110,8 @@
 
 ## ⭕ **OPERATING SYSTEMS**
 
-[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows")][repo]
-[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")][repo]
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white "Windows")
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white "Android")
 
 <!-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
 <!-- ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) -->
