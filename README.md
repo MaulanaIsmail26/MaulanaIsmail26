@@ -3,7 +3,7 @@
 **✔️ I am a self-taught Front-end website developer from Sumedang Regency, West Java, Indonesia.**
 <br/><br/>✔️ I enjoy taking up complex problems and turning them into simple and beautiful interface designs.
 <br/><br/>✔️ I love the logic and structure of coding and always strive to write elegant and efficient code, whether it be HTML, CSS, or JavaScript.
-<br/><br/>✔️ I'am ready to create a responsive website, attractive and easy to use.
+<br/><br/>✔️ I am ready to create a responsive website, attractive and easy to use.
 
 
 ## Fun Fact 🎈
